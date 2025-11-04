@@ -19,10 +19,7 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 ## Coding and Output:
-```
-NAME: SANJAY C
-REG NO: 212223240150
-```
+
 ```py
 import pandas as pd
 import numpy as np
